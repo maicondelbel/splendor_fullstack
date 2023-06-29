@@ -12,3 +12,4 @@ define( 'MY_PLUGIN_PATH', plugin_dir_path( __FILE__ ) );
 
 include( MY_PLUGIN_PATH . 'includes/shortcode.php');
 include( MY_PLUGIN_PATH . 'includes/filter.php');
+include( MY_PLUGIN_PATH . 'includes/class-custom-api.php');
